@@ -1,10 +1,13 @@
 name: Generate Metadata
 
 on:
+  # Auto-run when markdown or script changes
   push:
     paths:
       - 'weeks/**.md'
       - '.github/scripts/generateMetadata.js'
+  # Enable manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write

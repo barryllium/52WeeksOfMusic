@@ -1,0 +1,31 @@
+name: Generate Metadata
+
+on:
+  push:
+    paths:
+      - 'weeks/**.md'
+      - '.github/scripts/generateMetadata.js'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run metadata generator
+        run: node .github/scripts/generateMetadata.js
+
+      - name: Commit and push metadata.json
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add metadata.json
+          git commit -m "Auto-update metadata.json" || echo "No changes to commit"
+          git push
+

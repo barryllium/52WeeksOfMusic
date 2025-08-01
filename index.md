@@ -9,4 +9,7 @@ Combine that with having children — an event that resulted in nothing new ente
 
 Enter this project - 52 artists, 52 weeks. Of course, I'm starting it off with the Pixies, and from there I've got a range of artists across several decades and genres.
 I'm hoping to fill in some musical gaps, explore some new artists, and find new paths to music I will love.
-Whether it's a seminal act that I feel like I should have explored decades ago or an artist that's come along in the past decade that is shaping a genre, I can't wait to see what "new" music I will discover.
+I'll record my thoughts each week, saying what works for me and what doesn't.
+I'm not an expert - I won't be talking about innovative time signatures or how so-and-so uses a lydian scale, I'll just speak to how I connect with each artist.
+
+Whether it's a seminal act that I feel like I should have explored decades ago, or an artist that's come along in the past decade that is shaping a genre, I can't wait to see what new (and old!) music I'll discover.

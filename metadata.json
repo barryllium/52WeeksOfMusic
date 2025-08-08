@@ -4,5 +4,11 @@
     "title": "The Pixies",
     "date": "2025-08-01",
     "order": 1
+  },
+  {
+    "file": "week2-BillieEilish.md",
+    "title": "Billie Eilish",
+    "date": "2025-08-08",
+    "order": 2
   }
 ]

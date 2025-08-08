@@ -1,4 +1,5 @@
 ---
+file: week1-thePixies.md
 title: The Pixies
 date: 2025-08-01
 order: 1
@@ -10,7 +11,7 @@ And then "Gigantic" started. I stopped what I was doing completely. I was pulled
 
 Next, I got to *Doolittle*, and from my first listen this became an album that I liked from start to end. "Debaser" is a great album starter. "I Bleed" really grabbed me the on first listen (and I immediately felt the Pixies influence on Weezer). When "Hey" finished, I immediately started the song over and listened again - I don't know what it was, but something of the song brought me back to being a teenager listening to Jim Morrison yelling *Hello* at the end of "Hello, I Love You". For as much as I got into several songs on *Surfer Rosa*, I got into *Doolittle* as a whole even more.
 
-*Bossanova* felt a little too smooth or refined for me in my initial listen - but by the time I got to the stretch of "Ana" through "Blown Away", I was just as into it as I was all of *Doolittle*
+*Bossanova* felt a little too smooth or refined for me in my initial listen - but by the time I got to the stretch of "Ana" through "Blown Away", I was just as into it as I was all of *Doolittle*.
 
 By the time I got to *Trompe Le Monde*, I was just into the vibe of the Pixies. I don't know what the general feeling is about any of the albums, but I ended up really liking *Trompe Le Monde* as a whole. I can't even say "these were the songs that really stuck out to me", but the vibe of the album just washed over me in a good way.
 

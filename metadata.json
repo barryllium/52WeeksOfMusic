@@ -10,5 +10,11 @@
     "title": "Billie Eilish",
     "date": "2025-08-08",
     "order": 2
+  },
+  {
+    "file": "week3-TheKinks.md",
+    "title": "The Kinks",
+    "date": "2025-08-15",
+    "order": 3
   }
 ]

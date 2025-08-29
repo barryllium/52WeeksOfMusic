@@ -24,7 +24,7 @@ After that, I really wish I had had more time to listen this week. *@#%&\*! Smil
 I really look forward to revisiting Aimee Mann, listening to more of what I loved, and giving more time and attention to her work. As of now, though:
 
 * *Whatever* is my favorite album. I just love the rock sound, her voice pairs so damn well with an electric guitar.
-* I feel like *Bachelor No. 2* is her best album, even if it's not my favorite. Every song is so full of feeling, and is so well executed.
+* I feel like *Bachelor No. 2* is her best album, even if it's not my favorite. Every song is so full of feeling, and is so well executed. She masterfully weaved through genres from song to song (and sometimes within a single song), it's beyond impressive.
 * My favorite song is "This Is How It Goes". When a song gets you, it just gets you.
 
 After this week of just not having enough time to listen to music as much as I wanted to, it's nice to know that next week I'll be visiting with a band with a short career and a small discography. Oh, no, I'm wrong - next week is The Cure.

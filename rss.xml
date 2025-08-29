@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 20:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 18:58:19 GMT</lastBuildDate>
     
     <item>
       <title>The Pixies</title>
@@ -33,6 +33,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week4-AimeeMann.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week4-AimeeMann.md</guid>
       <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>The Cure</title>
+      <link>https://barryllium.github.io/music/post.html?file=week5-TheCure.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week5-TheCure.md</guid>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 file: week5-TheCure.md
 title: The Cure
 date: 2025-08-29
-order: 4
+order: 5
 ---
 
 "I wonder what it would be like to have been listening to *The Cure* for the past 40 years"

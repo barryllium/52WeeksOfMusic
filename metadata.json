@@ -27,6 +27,12 @@
     "file": "week5-TheCure.md",
     "title": "The Cure",
     "date": "2025-08-29",
-    "order": 4
+    "order": 5
+  },
+  {
+    "file": "week6-RayCharles.md",
+    "title": "Ray Charles",
+    "date": "2025-09-05",
+    "order": 6
   }
 ]

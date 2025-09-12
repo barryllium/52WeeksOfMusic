@@ -1,5 +1,5 @@
 ---
-file: week5-RayCharles.md
+file: week6-RayCharles.md
 title: Ray Charles
 date: 2025-09-05
 order: 6
@@ -11,7 +11,7 @@ I did more research this week than with any of the previous artists I've listene
 * *The Genius of Ray Charles* (1959)
 * "Georgia On My Mind"
 * "Hit the Road Jack"
-* *What'd I Say* (1959) - *second listen through only*
+* *What'd I Say* (1959) - <small>*second listen through only*</small>
 * *The Genius Sings the Blues*
 * *Modern Sounds in Country and Western Music, Vol 1 & 2*
 

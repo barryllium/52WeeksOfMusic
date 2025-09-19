@@ -22,6 +22,6 @@ After making it through all five albums, it was time to listen again. So I did. 
 * From the second listen in, *Come On Pilgrim* won me over. I found "Caribou", "Ed is Dead", "The Holiday Song", "I’ve Been Tired", and "Levitate Me" all playing in my head throughout the week
 * *Bossanova* still doesn't grab me right from the start, but I really dig the middle.
 
-When all is said and done, The Pixies have earned a spot my rotation, and couldn't have been a better start to this project.
+When all is said and done, The Pixies have earned a spot in my rotation, and couldn't have been a better start to this project.
 
 Next up... Billie Eilish

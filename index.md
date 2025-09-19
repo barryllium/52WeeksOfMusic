@@ -2,7 +2,7 @@
 The idea for this project started years ago; listening to Nirvana, I realized that while knowing the Pixies were a big influence on them, I've never really listened to them.
 That thought stayed with me, and kept growing to other musicians that I would hear about, and file into the back of my mind with the idea that I would check them out eventually.
 
-A few things kept me from ever checking these artists out: I listen to a large number of podcasts, and when I do listen to music, I tend to listen to the same groups over an over.
+A few things kept me from ever checking these artists out: I listen to a large number of podcasts, and when I do listen to music, I tend to listen to the same groups over and over.
 There were years when I almost entirely just listened to Aerosmith.
 The same goes for Queen, Metallica, Our Lady Peace, and a handful of other groups.
 Combine that with having children — an event that resulted in nothing new entering my life for about a decade — and I've just never gotten around to any of it.

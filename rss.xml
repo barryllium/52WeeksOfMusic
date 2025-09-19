@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Sep 2025 12:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 13:01:04 GMT</lastBuildDate>
     
     <item>
       <title>The Pixies</title>
@@ -54,6 +54,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week7-PJHarvey.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week7-PJHarvey.md</guid>
       <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>George Clinton</title>
+      <link>https://barryllium.github.io/music/post.html?file=week8-GeorgeClinton.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week8-GeorgeClinton.md</guid>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

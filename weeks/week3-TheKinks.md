@@ -7,7 +7,7 @@ order: 3
 
 "I think I don't like the Kinks."
 
-That's one of the first things I wrote in my notes while listening through most of their very large discography. I want to be very clear about things - I'm not judging any of the musicians I'm exploring as subjectively good or bad; instead, this is about whether or not I enjoy the music.
+That's one of the first things I wrote in my notes while listening through most of their very large discography. I want to be very clear about things - I'm not judging any of the musicians I'm exploring as objectively good or bad; instead, this is about whether or not I enjoy the music.
 
 The Kinks have made *a lot* of music over the years. Singles, EPs, albums - *waaay* too much to listen to over the course of a week, especially when I'm trying to listen to everything twice. So I went to my good friend ChatGPT and asked for the essentials. It gave me a list of early singles, and then a number of albums. I took that information, added a few other albums to close some of the year gaps, and started listening. In my first run through, I ended up listening to a few early singles, and then the following albums:
 

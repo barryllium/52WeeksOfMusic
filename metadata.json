@@ -52,5 +52,11 @@
     "title": "OutKast",
     "date": "2025-09-26",
     "order": 9
+  },
+  {
+    "file": "week10-JohnColtrane.md",
+    "title": "John Coltrane",
+    "date": "2025-10-03",
+    "order": 10
   }
 ]

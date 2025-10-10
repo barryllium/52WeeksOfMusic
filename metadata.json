@@ -58,5 +58,11 @@
     "title": "John Coltrane",
     "date": "2025-10-03",
     "order": 10
+  },
+  {
+    "file": "week11-TVOnTheRadio.md",
+    "title": "TV on the Radio",
+    "date": "2025-10-10",
+    "order": 11
   }
 ]

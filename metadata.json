@@ -64,5 +64,11 @@
     "title": "TV on the Radio",
     "date": "2025-10-10",
     "order": 11
+  },
+  {
+    "file": "week12-BlackSabbath.md",
+    "title": "Black Sabbath",
+    "date": "2025-10-17",
+    "order": 12
   }
 ]

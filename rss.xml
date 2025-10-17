@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Oct 2025 14:02:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 16:53:35 GMT</lastBuildDate>
     
     <item>
       <title>The Pixies</title>
@@ -82,6 +82,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week11-TVOnTheRadio.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week11-TVOnTheRadio.md</guid>
       <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Black Sabbath</title>
+      <link>https://barryllium.github.io/music/post.html?file=week12-BlackSabbath.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week12-BlackSabbath.md</guid>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

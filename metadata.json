@@ -70,5 +70,11 @@
     "title": "Black Sabbath",
     "date": "2025-10-17",
     "order": 12
+  },
+  {
+    "file": "week13-boygenius.md",
+    "title": "boygenius",
+    "date": "2025-10-24",
+    "order": 13
   }
 ]

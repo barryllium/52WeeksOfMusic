@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Oct 2025 13:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 16:01:33 GMT</lastBuildDate>
     
     <item>
       <title>The Pixies</title>
@@ -103,6 +103,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week14-ChanceTheRapper.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week14-ChanceTheRapper.md</guid>
       <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Deep Purple</title>
+      <link>https://barryllium.github.io/music/post.html?file=week15-DeepPurple.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week15-DeepPurple.md</guid>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

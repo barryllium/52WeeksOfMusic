@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Nov 2025 13:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 14:09:14 GMT</lastBuildDate>
     
     <item>
       <title>The Pixies</title>
@@ -131,6 +131,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week18-JackWhite.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week18-JackWhite.md</guid>
       <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Patti Smith</title>
+      <link>https://barryllium.github.io/music/post.html?file=week19-PattiSmith.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week19-PattiSmith.md</guid>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

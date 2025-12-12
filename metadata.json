@@ -112,5 +112,11 @@
     "title": "Patti Smith",
     "date": "2025-12-05",
     "order": 19
+  },
+  {
+    "file": "week20-MilesDavis.md",
+    "title": "Miles Davis",
+    "date": "2025-12-12",
+    "order": 20
   }
 ]

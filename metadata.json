@@ -118,5 +118,11 @@
     "title": "Miles Davis",
     "date": "2025-12-12",
     "order": 20
+  },
+  {
+    "file": "week21-TheRollingStones.md",
+    "title": "The Rolling Stones",
+    "date": "2025-12-19",
+    "order": 21
   }
 ]

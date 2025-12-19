@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Dec 2025 13:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 13:08:40 GMT</lastBuildDate>
     
     <item>
       <title>The Pixies</title>
@@ -145,6 +145,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week20-MilesDavis.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week20-MilesDavis.md</guid>
       <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>The Rolling Stones</title>
+      <link>https://barryllium.github.io/music/post.html?file=week21-TheRollingStones.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week21-TheRollingStones.md</guid>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

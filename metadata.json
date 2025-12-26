@@ -124,5 +124,11 @@
     "title": "The Rolling Stones",
     "date": "2025-12-19",
     "order": 21
+  },
+  {
+    "file": "week22-TheSmiths.md",
+    "title": "The Smiths",
+    "date": "2025-12-26",
+    "order": 22
   }
 ]

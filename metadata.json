@@ -130,5 +130,11 @@
     "title": "The Smiths",
     "date": "2025-12-26",
     "order": 22
+  },
+  {
+    "file": "week23-Siouxsie.md",
+    "title": "Siouxsie and the Banshees",
+    "date": "2026-01-02",
+    "order": 23
   }
 ]

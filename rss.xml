@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jan 2026 13:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 12:12:32 GMT</lastBuildDate>
     
     <item>
       <title>The Pixies</title>
@@ -166,6 +166,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week23-Siouxsie.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week23-Siouxsie.md</guid>
       <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>King Gizzard & the Lizard Wizard</title>
+      <link>https://barryllium.github.io/music/post.html?file=week24-KingGizzard.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week24-KingGizzard.md</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

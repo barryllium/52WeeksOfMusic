@@ -136,5 +136,11 @@
     "title": "Siouxsie and the Banshees",
     "date": "2026-01-02",
     "order": 23
+  },
+  {
+    "file": "week24-KingGizzard.md",
+    "title": "King Gizzard & the Lizard Wizard",
+    "date": "2026-01-09",
+    "order": 24
   }
 ]

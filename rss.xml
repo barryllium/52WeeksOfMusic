@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jan 2026 13:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 15:16:16 GMT</lastBuildDate>
     
     <item>
       <title>The Pixies</title>
@@ -187,6 +187,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week26-JamesBrown.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week26-JamesBrown.md</guid>
       <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Halfway Through!</title>
+      <link>https://barryllium.github.io/music/post.html?file=week26_5-HalfwayThrough.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week26_5-HalfwayThrough.md</guid>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

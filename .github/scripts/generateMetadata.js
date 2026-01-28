@@ -38,7 +38,7 @@ files.forEach(file => {
     file,
     title: frontMatter.title,
     date: frontMatter.date || null,
-    order: parseInt(frontMatter.order, 10)
+    order: parseFloat(frontMatter.order)
   });
 });
 

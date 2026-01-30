@@ -160,5 +160,11 @@
     "title": "Halfway Through!",
     "date": "2026-01-28",
     "order": 26.5
+  },
+  {
+    "file": "week27-DavidBowie.md",
+    "title": "David Bowie",
+    "date": "2026-01-30",
+    "order": 27
   }
 ]

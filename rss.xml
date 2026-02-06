@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jan 2026 12:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 13:13:39 GMT</lastBuildDate>
     
     <item>
       <title>The Pixies</title>
@@ -201,6 +201,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week27-DavidBowie.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week27-DavidBowie.md</guid>
       <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Leonard Cohen</title>
+      <link>https://barryllium.github.io/music/post.html?file=week28-LeonardCohen.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week28-LeonardCohen.md</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

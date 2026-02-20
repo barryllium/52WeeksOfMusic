@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Feb 2026 13:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 18:19:32 GMT</lastBuildDate>
     
     <item>
       <title>The Pixies</title>
@@ -215,6 +215,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week29-Run-DMC.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week29-Run-DMC.md</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>The Strokes</title>
+      <link>https://barryllium.github.io/music/post.html?file=week30-TheStrokes.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week30-TheStrokes.md</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

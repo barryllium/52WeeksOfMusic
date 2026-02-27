@@ -184,5 +184,11 @@
     "title": "The Strokes",
     "date": "2026-02-20",
     "order": 30
+  },
+  {
+    "file": "week31-BobMarley.md",
+    "title": "Bob Marley",
+    "date": "2026-02-27",
+    "order": 31
   }
 ]

@@ -1,6 +1,6 @@
 ---
 file: week1-thePixies.md
-title: The Pixies
+title: Pixies
 date: 2025-08-01
 order: 1
 ---

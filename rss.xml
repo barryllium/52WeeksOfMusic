@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2026 11:16:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 11:42:02 GMT</lastBuildDate>
     
     <item>
       <title>Pixies</title>
@@ -257,6 +257,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week35-DaftPunk.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week35-DaftPunk.md</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Fleetwood Mac</title>
+      <link>https://barryllium.github.io/music/post.html?file=week36-FleetwoodMac.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week36-FleetwoodMac.md</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2026 12:31:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 11:09:59 GMT</lastBuildDate>
     
     <item>
       <title>Pixies</title>
@@ -271,6 +271,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week37-KateBush.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week37-KateBush.md</guid>
       <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>2Pac</title>
+      <link>https://barryllium.github.io/music/post.html?file=week38-2Pac.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week38-2Pac.md</guid>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

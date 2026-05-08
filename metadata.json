@@ -244,5 +244,11 @@
     "title": "Joni Mitchell",
     "date": "2026-05-01",
     "order": 40
+  },
+  {
+    "file": "week41-TheClash.md",
+    "title": "The Clash",
+    "date": "2026-05-08",
+    "order": 41
   }
 ]

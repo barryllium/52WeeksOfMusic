@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 11:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 15:35:06 GMT</lastBuildDate>
     
     <item>
       <title>Pixies</title>
@@ -299,6 +299,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week41-TheClash.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week41-TheClash.md</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>The Velvet Underground</title>
+      <link>https://barryllium.github.io/music/post.html?file=week42-TheVelvetUnderground.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week42-TheVelvetUnderground.md</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

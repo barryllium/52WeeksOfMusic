@@ -250,5 +250,11 @@
     "title": "The Clash",
     "date": "2026-05-08",
     "order": 41
+  },
+  {
+    "file": "week42-TheVelvetUnderground.md",
+    "title": "The Velvet Underground",
+    "date": "2026-05-15",
+    "order": 42
   }
 ]

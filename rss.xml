@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 11:33:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 11:20:07 GMT</lastBuildDate>
     
     <item>
       <title>Pixies</title>
@@ -334,6 +334,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week46-Rush.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week46-Rush.md</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Public Enemy</title>
+      <link>https://barryllium.github.io/music/post.html?file=week47-PublicEnemy.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week47-PublicEnemy.md</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://barryllium.github.io/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 11:31:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 13:01:41 GMT</lastBuildDate>
     
     <item>
       <title>Pixies</title>
@@ -348,6 +348,13 @@
       <link>https://barryllium.github.io/music/post.html?file=week48-TheKillers.md</link>
       <guid>https://barryllium.github.io/music/post.html?file=week48-TheKillers.md</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Otis Redding</title>
+      <link>https://barryllium.github.io/music/post.html?file=week49-OtisRedding.md</link>
+      <guid>https://barryllium.github.io/music/post.html?file=week49-OtisRedding.md</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

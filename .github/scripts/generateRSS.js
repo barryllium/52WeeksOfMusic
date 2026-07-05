@@ -1,7 +1,7 @@
 const fs = require('fs');
 const metadata = require('../../metadata.json'); // adjust as needed
 
-const BASE_URL = 'https://barryllium.github.io/music/';
+const BASE_URL = 'https://barrylliumlabs.com/music/';
 
 function formatDateRFC822(dateStr) {
   return new Date(dateStr).toUTCString();

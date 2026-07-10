@@ -5,7 +5,7 @@
     <link>https://barrylliumlabs.com/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 17:25:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:02:19 GMT</lastBuildDate>
     
     <item>
       <title>Pixies</title>
@@ -109,7 +109,7 @@
       <title>Deep Purple</title>
       <link>https://barrylliumlabs.com/music/post.html?file=week15-DeepPurple.md</link>
       <guid>https://barrylliumlabs.com/music/post.html?file=week15-DeepPurple.md</guid>
-      <pubDate>Fri, 07 Nov 2025 05:00:00 GMT</pubDate>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
     </item>
 
     <item>
@@ -355,6 +355,13 @@
       <link>https://barrylliumlabs.com/music/post.html?file=week49-OtisRedding.md</link>
       <guid>https://barrylliumlabs.com/music/post.html?file=week49-OtisRedding.md</guid>
       <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>The Long Winters</title>
+      <link>https://barrylliumlabs.com/music/post.html?file=week50-TheLongWinters.md</link>
+      <guid>https://barrylliumlabs.com/music/post.html?file=week50-TheLongWinters.md</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

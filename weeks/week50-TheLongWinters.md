@@ -1,0 +1,32 @@
+---
+file: week50-TheLongWinters.md
+title: The Long Winters
+date: 2026-07-10
+order: 50
+---
+
+I've been [listening to](https://www.omnibusproject.com) [John Roderick](https://www.merlinmann.com/roderick/) talk for years - but until this week, I've never listened to any of his music.
+
+* *The Worst You Can Do Is Harm* (2002)
+* *When I Pretend to Fall* (2003)
+* *Putting the Days to Bed* (2006)
+* *Ultimatum EP* (2008)
+
+I was immediately struck by his voice. I was expecting a "musical version" of his deep, gravelly talking voice; I assumed that would carry over into his singing. Instead, what I got was something warm, clear, earnest, and melodic - and it really worked for me.
+
+*The Worst You Can Do Is Harm* started out strong for me with "Give Me a Moment". The arrangement felt slightly discordant, but that felt purposeful so it worked for the song. The vocals felt morose, and the piano coming in for the final third sealed my strong feelings on the song, pulling me in even more. "Scent of Lime" had a laid-back vibe to it that I rather enjoyed, building itself up to the middle - only to chill back out, and then kick back in again after a few moments. The music and vocals complemented each other beautifully, and there were some lyrical moments that caught my attention: "If you find the real world let me know" and "The worst you can do is harm, waiting for the other shoe to fall, and shouting from your car at an empty road" evoked strong feelings in me, making me feel even more connected to the song. The star of the album for me, though, was "Unsalted Butter". I didn't even immediately mesh with the song, but once the drums kick in for the first chorus, from there on the song keeps grabbing me more and more. The beat is simple and effective, and the harmony vocals are what really pulled me in and sealed the deal.
+
+*When I Pretend to Fall* takes off for me starting with track 2. While "Blue Diamonds" is a solid song with a strong rhythm, "Scared Straight" was super engaging. I can't think of a better way to sum up the song than to say how complete and cohesive everything in the song was. The beat is great, the keyboards/drums/bass all lock in together, and every other piece (keyboards, horns, backing vocals) fit right in to enhance the song in their own way. I was pulled in by the entire song, and "Shapes" and "Cinnamon" both kept that momentum going. Both songs had guitars (acoustic in "Cinnamon") doing some heavy lifting atop tightly cohesive rhythm sections. The lead vocals felt strong in both, melding seamlessly with the music.
+
+The album continued with more strong songs like "Blanket Hog", "Stupid", and "Prom Night at Hater High" - the last pulling off one of my favorite tricks by having the music build on itself to start, with a progression of guitar -> keyboards -> bass/percussion -> more keyboards -> horns sounding great and pulling me in. By the time it all builds up, there is a lot going on, but it settles into something satisfying. "Nora" closes out the album with a real journey, starting with just piano and vocals before the rest of the arrangement comes in; the lyrics are great, and the ending mood is great when combined with the emotional vocal performance.
+
+*Putting the Days to Bed* doesn't have quite as many individual songs that jump out at me, but the album as a whole has a great, smooth feel to it, and the background vocals were even stronger here than in previous albums (where they already were strong). "Pushover" opens things well, and actually grew on me the most of anything this week - what started as a song I liked became a song I loved once I caught how well the music rises and falls from section to section. "Hindsight" was close behind, moving fluidly between soft and hard moments, with guitar and piano working well together and genuinely great lyrics. "Teaspoon" came close to a favorite too, with horns that grab me every time they come in. It's not quite on the level of *When I Pretend to Fall* for me, but it's a very solid, cohesive listen that I'd happily revisit.
+
+The *Ultimatum EP* closed out the week, and while a chunk of it is songs I'd already heard (plus a couple of live versions for contrast), it was a strong way to wrap things up. "The Commander Thinks Aloud" has a synth-and-piano opening that's almost chilling, and the song keeps threatening to take off without ever quite doing it - which ends up working in its favor, as the song kept me on tenterhooks and paid off *just enough* to not feel like I was left hanging. The two versions of "Ultimatum" were the real standouts, though. The studio version here is even more engaging than the album cut, with the strings and acoustic guitar giving it a big, deep feel - and the live version strips it down even further, and somehow gets even more emotional for it. His voice isn't perfect on the live take, and that's exactly the point - it gives the song a vulnerability because of his voice's raw feel. Both versions ended up among my favorite things I heard all week.
+
+I feel like I thought I knew what I was getting into this week, even if I can't describe it - but I know that I got more out of it than I thought I might. Everything was better than I had pictured, and I feel confident that The Long Winters would have been a band I would have listened to a lot if I knew about them when they were releasing albums. Between strong songwriting (that in some ways made me think of Aimee Mann - who I know is a contemporary and friend of John Roderick) and a musical presence that at times evoked memories of other artists I was into in the early-to-mid 2000s (Vertical Horizon, Splender, Stir), The Long Winters would have fit right in.
+
+* Favorite Album: *When I Pretend to Fall*. Despite how much I liked the other albums, it wasn't even close. It had the highest highs and the most consistency. For everything that the other albums did well - the songwriting, the arrangements, and the vocal performances - this album does them *that much better*. It's The Long Winters album that I'd point someone to first.
+* Favorite Song: Even with how much "Ultimatum" and all its versions grew on me, this goes to "Scared Straight". Everything about it works - the keyboards, the bass, the backing vocals, the way the horns and keyboards build on each other. It might be the most well-composed song I heard all week, and from first listen it pulled me in and kept me there.
+
+Next week is Muse, a band I know almost nothing about other than their name!

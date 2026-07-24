@@ -310,5 +310,11 @@
     "title": "Muse",
     "date": "2026-07-17",
     "order": 51
+  },
+  {
+    "file": "week52-StVincent.md",
+    "title": "St. Vincent",
+    "date": "2026-07-24",
+    "order": 52
   }
 ]

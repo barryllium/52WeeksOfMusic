@@ -5,7 +5,7 @@
     <link>https://barrylliumlabs.com/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 11:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:13:29 GMT</lastBuildDate>
     
     <item>
       <title>Pixies</title>
@@ -369,6 +369,13 @@
       <link>https://barrylliumlabs.com/music/post.html?file=week51-Muse.md</link>
       <guid>https://barrylliumlabs.com/music/post.html?file=week51-Muse.md</guid>
       <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>St. Vincent</title>
+      <link>https://barrylliumlabs.com/music/post.html?file=week52-StVincent.md</link>
+      <guid>https://barrylliumlabs.com/music/post.html?file=week52-StVincent.md</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

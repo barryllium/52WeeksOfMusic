@@ -316,5 +316,11 @@
     "title": "St. Vincent",
     "date": "2026-07-24",
     "order": 52
+  },
+  {
+    "file": "week52_9-ItsOver.md",
+    "title": "It's Over!",
+    "date": "2026-07-31",
+    "order": 52.9
   }
 ]

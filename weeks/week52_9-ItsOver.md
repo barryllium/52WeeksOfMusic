@@ -17,12 +17,12 @@ After 52 weeks of doing this, it kinda feels like I need to do some sort of rank
   * Rush
   * Muse
 * Favorite Albums:
+  * *Doolittle* - Pixies
   * *the record* - boygenius
   * *The Rise and Fall of Ziggy Stardust and the Spiders from Mars* - David Bowie
   * *Rumours* - Fleetwood Mac
   * *Otis Blue* - Otis Redding
   * *Absolution* - Muse
-  * *Doolittle* - Pixies
 
 Does that mean these are the best artists and albums of the last 52 weeks? No - but of all the artists and albums I've listened to, these are the ones I'm most excited to revisit (and, in some cases, check out more of their work). Ask me again in a week, a month, and a year, and I'll probably have some different answers for you.
 

@@ -5,7 +5,9 @@ on:
   push:
     paths:
       - 'weeks/**.md'
+      - 'posts/**.md'
       - '.github/scripts/generateMetadata.js'
+      - '.github/scripts/generatePostsMetadata.js'
   # Enable manual trigger
   workflow_dispatch:
 
@@ -26,8 +28,11 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run metadata generator
+      - name: Run weeks metadata generator
         run: node .github/scripts/generateMetadata.js
+
+      - name: Run posts metadata generator
+        run: node .github/scripts/generatePostsMetadata.js
 
       - name: Generate rss.xml
         run: node .github/scripts/generateRSS.js
@@ -36,7 +41,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add metadata.json rss.xml
+          git add metadata.json fifty-two-weeks-metadata.json posts-metadata.json rss.xml
           git commit -m "Auto-update metadata.json and rss.xml" || echo "No changes to commit"
           git push
 

@@ -1,0 +1,326 @@
+[
+  {
+    "file": "week1-thePixies.md",
+    "title": "Pixies",
+    "date": "2025-08-01",
+    "order": 1
+  },
+  {
+    "file": "week2-BillieEilish.md",
+    "title": "Billie Eilish",
+    "date": "2025-08-08",
+    "order": 2
+  },
+  {
+    "file": "week3-TheKinks.md",
+    "title": "The Kinks",
+    "date": "2025-08-15",
+    "order": 3
+  },
+  {
+    "file": "week4-AimeeMann.md",
+    "title": "Aimee Mann",
+    "date": "2025-08-22",
+    "order": 4
+  },
+  {
+    "file": "week5-TheCure.md",
+    "title": "The Cure",
+    "date": "2025-08-29",
+    "order": 5
+  },
+  {
+    "file": "week6-RayCharles.md",
+    "title": "Ray Charles",
+    "date": "2025-09-05",
+    "order": 6
+  },
+  {
+    "file": "week7-PJHarvey.md",
+    "title": "PJ Harvey",
+    "date": "2025-09-02",
+    "order": 7
+  },
+  {
+    "file": "week8-GeorgeClinton.md",
+    "title": "George Clinton",
+    "date": "2025-09-19",
+    "order": 8
+  },
+  {
+    "file": "week9-OutKast.md",
+    "title": "OutKast",
+    "date": "2025-09-26",
+    "order": 9
+  },
+  {
+    "file": "week10-JohnColtrane.md",
+    "title": "John Coltrane",
+    "date": "2025-10-03",
+    "order": 10
+  },
+  {
+    "file": "week11-TVOnTheRadio.md",
+    "title": "TV on the Radio",
+    "date": "2025-10-10",
+    "order": 11
+  },
+  {
+    "file": "week12-BlackSabbath.md",
+    "title": "Black Sabbath",
+    "date": "2025-10-17",
+    "order": 12
+  },
+  {
+    "file": "week13-boygenius.md",
+    "title": "boygenius",
+    "date": "2025-10-24",
+    "order": 13
+  },
+  {
+    "file": "week14-ChanceTheRapper.md",
+    "title": "Chance The Rapper",
+    "date": "2025-10-31",
+    "order": 14
+  },
+  {
+    "file": "week15-DeepPurple.md",
+    "title": "Deep Purple",
+    "date": "2025-11-7",
+    "order": 15
+  },
+  {
+    "file": "week16-TracyChapman.md",
+    "title": "Tracy Chapman",
+    "date": "2025-11-14",
+    "order": 16
+  },
+  {
+    "file": "week17-Wilco.md",
+    "title": "Wilco",
+    "date": "2025-11-21",
+    "order": 17
+  },
+  {
+    "file": "week18-JackWhite.md",
+    "title": "Jack White",
+    "date": "2025-11-28",
+    "order": 18
+  },
+  {
+    "file": "week19-PattiSmith.md",
+    "title": "Patti Smith",
+    "date": "2025-12-05",
+    "order": 19
+  },
+  {
+    "file": "week20-MilesDavis.md",
+    "title": "Miles Davis",
+    "date": "2025-12-12",
+    "order": 20
+  },
+  {
+    "file": "week21-TheRollingStones.md",
+    "title": "The Rolling Stones",
+    "date": "2025-12-19",
+    "order": 21
+  },
+  {
+    "file": "week22-TheSmiths.md",
+    "title": "The Smiths",
+    "date": "2025-12-26",
+    "order": 22
+  },
+  {
+    "file": "week23-Siouxsie.md",
+    "title": "Siouxsie and the Banshees",
+    "date": "2026-01-02",
+    "order": 23
+  },
+  {
+    "file": "week24-KingGizzard.md",
+    "title": "King Gizzard & the Lizard Wizard",
+    "date": "2026-01-09",
+    "order": 24
+  },
+  {
+    "file": "week25-PortugalTheMan.md",
+    "title": "Portugal. The Man",
+    "date": "2026-01-16",
+    "order": 25
+  },
+  {
+    "file": "week26-JamesBrown.md",
+    "title": "James Brown",
+    "date": "2026-01-23",
+    "order": 26
+  },
+  {
+    "file": "week26_5-HalfwayThrough.md",
+    "title": "Halfway Through!",
+    "date": "2026-01-28",
+    "order": 26.5
+  },
+  {
+    "file": "week27-DavidBowie.md",
+    "title": "David Bowie",
+    "date": "2026-01-30",
+    "order": 27
+  },
+  {
+    "file": "week28-LeonardCohen.md",
+    "title": "Leonard Cohen",
+    "date": "2026-02-06",
+    "order": 28
+  },
+  {
+    "file": "week29-Run-DMC.md",
+    "title": "Run-DMC",
+    "date": "2026-02-13",
+    "order": 29
+  },
+  {
+    "file": "week30-TheStrokes.md",
+    "title": "The Strokes",
+    "date": "2026-02-20",
+    "order": 30
+  },
+  {
+    "file": "week31-BobMarley.md",
+    "title": "Bob Marley",
+    "date": "2026-02-27",
+    "order": 31
+  },
+  {
+    "file": "week32-DeathCab.md",
+    "title": "Death Cab for Cutie",
+    "date": "2026-03-06",
+    "order": 32
+  },
+  {
+    "file": "week33-Prince.md",
+    "title": "Prince",
+    "date": "2026-03-13",
+    "order": 33
+  },
+  {
+    "file": "week34-GratefulDead.md",
+    "title": "Grateful Dead",
+    "date": "2026-03-20",
+    "order": 34
+  },
+  {
+    "file": "week35-DaftPunk.md",
+    "title": "Daft Punk",
+    "date": "2026-03-27",
+    "order": 35
+  },
+  {
+    "file": "week36-FleetwoodMac.md",
+    "title": "Fleetwood Mac",
+    "date": "2026-04-03",
+    "order": 36
+  },
+  {
+    "file": "week37-KateBush.md",
+    "title": "Kate Bush",
+    "date": "2026-04-10",
+    "order": 37
+  },
+  {
+    "file": "week38-2Pac.md",
+    "title": "2Pac",
+    "date": "2026-04-17",
+    "order": 38
+  },
+  {
+    "file": "week39-TalkingHeads.md",
+    "title": "Talking Heads",
+    "date": "2026-04-24",
+    "order": 39
+  },
+  {
+    "file": "week40-JoniMitchell.md",
+    "title": "Joni Mitchell",
+    "date": "2026-05-01",
+    "order": 40
+  },
+  {
+    "file": "week41-TheClash.md",
+    "title": "The Clash",
+    "date": "2026-05-08",
+    "order": 41
+  },
+  {
+    "file": "week42-TheVelvetUnderground.md",
+    "title": "The Velvet Underground",
+    "date": "2026-05-15",
+    "order": 42
+  },
+  {
+    "file": "week43-SonicYouth.md",
+    "title": "Sonic Youth",
+    "date": "2026-05-22",
+    "order": 43
+  },
+  {
+    "file": "week44-BrianEno.md",
+    "title": "Brian Eno",
+    "date": "2026-05-29",
+    "order": 44
+  },
+  {
+    "file": "week45-FrankOcean.md",
+    "title": "Frank Ocean",
+    "date": "2026-06-05",
+    "order": 45
+  },
+  {
+    "file": "week46-Rush.md",
+    "title": "Rush",
+    "date": "2026-06-12",
+    "order": 46
+  },
+  {
+    "file": "week47-PublicEnemy.md",
+    "title": "Public Enemy",
+    "date": "2026-06-19",
+    "order": 47
+  },
+  {
+    "file": "week48-TheKillers.md",
+    "title": "The Killers",
+    "date": "2026-06-26",
+    "order": 48
+  },
+  {
+    "file": "week49-OtisRedding.md",
+    "title": "Otis Redding",
+    "date": "2026-07-03",
+    "order": 49
+  },
+  {
+    "file": "week50-TheLongWinters.md",
+    "title": "The Long Winters",
+    "date": "2026-07-10",
+    "order": 50
+  },
+  {
+    "file": "week51-Muse.md",
+    "title": "Muse",
+    "date": "2026-07-17",
+    "order": 51
+  },
+  {
+    "file": "week52-StVincent.md",
+    "title": "St. Vincent",
+    "date": "2026-07-24",
+    "order": 52
+  },
+  {
+    "file": "week52_9-ItsOver.md",
+    "title": "It's Over!",
+    "date": "2026-07-31",
+    "order": 52.9
+  }
+]

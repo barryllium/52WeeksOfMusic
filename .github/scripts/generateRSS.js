@@ -1,11 +1,15 @@
 const fs = require('fs');
-const metadata = require('../../metadata.json'); // adjust as needed
+const weeksMetadata = require('../../fifty-two-weeks-metadata.json');
+const postsMetadata = require('../../posts-metadata.json');
 
 const BASE_URL = 'https://barrylliumlabs.com/music/';
 
 function formatDateRFC822(dateStr) {
   return new Date(dateStr).toUTCString();
 }
+
+// Weeks entries first (historical), then posts entries tacked on after
+const metadata = [...weeksMetadata, ...postsMetadata];
 
 const items = metadata.map(post => {
   const pubDate = post.date ? formatDateRFC822(post.date) : new Date().toUTCString();
@@ -32,4 +36,3 @@ const rss = `<?xml version="1.0" encoding="UTF-8" ?>
 
 fs.writeFileSync('rss.xml', rss);
 console.log('rss.xml generated!');
-

@@ -1,0 +1,2 @@
+<!-- markdownlint-disable MD041 -->
+In 2025, I set a challenge for myself - listen to [52 artists in 52 weeks](fifty-two-weeks.html), blogging about each. It turns out that there are more than 52 artists in the world that I don't consider myself reasonably familiar with, and thus the blog continues. I've gathered a long list of artists based on further exploration, recommendations, and artists that sit prominently on Rolling Stone's 2023 "Top 500 Albums of All Time" list. I'm excited to listen to all of them, and I hope you enjoy reading about my experiences.

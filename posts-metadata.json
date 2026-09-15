@@ -4,5 +4,11 @@
     "title": "The Breeders",
     "date": "2026-09-01",
     "order": 1
+  },
+  {
+    "file": "TheTaxpayers.md",
+    "title": "The Taxpayers",
+    "date": "2026-09-15",
+    "order": 2
   }
 ]

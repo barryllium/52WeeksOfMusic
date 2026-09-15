@@ -5,7 +5,7 @@
     <link>https://barrylliumlabs.com/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 17:23:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:19:05 GMT</lastBuildDate>
     
     <item>
       <title>Pixies</title>
@@ -390,6 +390,13 @@
       <link>https://barrylliumlabs.com/music/post.html?file=TheBreeders.md</link>
       <guid>https://barrylliumlabs.com/music/post.html?file=TheBreeders.md</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>The Taxpayers</title>
+      <link>https://barrylliumlabs.com/music/post.html?file=TheTaxpayers.md</link>
+      <guid>https://barrylliumlabs.com/music/post.html?file=TheTaxpayers.md</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

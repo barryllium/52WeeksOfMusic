@@ -5,7 +5,7 @@
     <link>https://barrylliumlabs.com/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 19:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:53:00 GMT</lastBuildDate>
     
     <item>
       <title>Pixies</title>
@@ -404,6 +404,13 @@
       <link>https://barrylliumlabs.com/music/post.html?file=SaraBareilles.md</link>
       <guid>https://barrylliumlabs.com/music/post.html?file=SaraBareilles.md</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>SZA</title>
+      <link>https://barrylliumlabs.com/music/post.html?file=SZA.md</link>
+      <guid>https://barrylliumlabs.com/music/post.html?file=SZA.md</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

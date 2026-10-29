@@ -56,4 +56,5 @@ Next up, Noah Kahan
 <br />
 <br />
 <sup>1</sup> <small>False, black bear</small>
-<sup>2</sup> <small>After listening to *Ctrl*, I was told I should have listened to *Z* first, so I listened to that second on my initial playthrough
+
+<sup>2</sup> <small>After listening to *Ctrl*, I was told I should have listened to *Z* first, so I listened to that second on my initial playthrough</small>

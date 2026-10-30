@@ -31,7 +31,7 @@ But, luckily, the back half of *SOS* exists - particularly a four-song stretch t
 
 "Special" doesn't hit the same highs, but she gives a moving performance as the music builds up and settles down behind her. All of her vocal layers sound great together, adding even more depth to the song.
 
-As I reach the end of this, I still don't know exactly what I think about SZA. What I like about her, I genuinely like. And it's easy to see how someone else could like her even more - which brings me to the conclusion that she's an excellent singer who just isn't quite for me. And I'm OK with that.
+As I reach the end of this, I still don't know exactly what I think about SZA. What I like about her, I genuinely like. And it's easy to see how someone else could like her even more - which brings me to the conclusion that she's a talented singer who just isn't quite for me. And I'm OK with that.
 
 - Favorite album: This barely goes to *SOS* over *Z* (and not because *Z* is "only" an EP). That four-song stretch in the back half was my favorite stretch on any of her albums. There are a few misses on the album for me, but there is enough good with a bit of great on it to give it the nod.
 - Favorite song: This is tougher. My initial inclination is "Julia", because the music is so good. But I'm going to give it to "Nobody Gets Me" because of the strength of her vocal performance there. She hits the right note at every point in this song, rising and falling, pushing and pulling back at all the right times. Engaging and emotional all the way through.

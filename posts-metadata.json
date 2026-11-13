@@ -22,5 +22,11 @@
     "title": "SZA",
     "date": "2026-10-29",
     "order": 4
+  },
+  {
+    "file": "NoahKahan.md",
+    "title": "Noah Kahan",
+    "date": "2026-11-12",
+    "order": 5
   }
 ]

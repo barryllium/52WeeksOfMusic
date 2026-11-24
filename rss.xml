@@ -5,7 +5,7 @@
     <link>https://barrylliumlabs.com/music/</link>
     <description>A weekly journey through influential music</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 03:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:23:44 GMT</lastBuildDate>
     
     <item>
       <title>Pixies</title>
@@ -418,6 +418,13 @@
       <link>https://barrylliumlabs.com/music/post.html?file=NoahKahan.md</link>
       <guid>https://barrylliumlabs.com/music/post.html?file=NoahKahan.md</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Trampled by Turtles</title>
+      <link>https://barrylliumlabs.com/music/post.html?file=TrampledByTurtles.md</link>
+      <guid>https://barrylliumlabs.com/music/post.html?file=TrampledByTurtles.md</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
